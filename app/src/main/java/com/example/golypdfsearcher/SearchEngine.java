@@ -5,6 +5,7 @@ import java.util.ArrayList;
 
 public class SearchEngine {
     public SearchEngine() {
+
     }
     public static ArrayList<File> searchForFilesOnly
             (File path, String name, boolean isWord, boolean isPDF, boolean isTxt){
